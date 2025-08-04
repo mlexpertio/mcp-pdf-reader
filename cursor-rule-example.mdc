@@ -1,0 +1,10 @@
+---
+description: Get information from user's PDF files.
+globs:
+alwaysApply: true
+---
+
+Whenever the user asks about their PDF files, you should use tools to answer the question.
+
+Always use the `get_document_list` tool to get the list of available PDF files when the user asks about their PDF files.
+Use the `get_document_text` tool to get the text of a specific PDF file.
