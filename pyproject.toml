@@ -1,7 +1,7 @@
 [project]
 name = "mcp-pdf-reader"
 version = "0.1.0"
-description = "Add your description here"
+description = "Local MCP server that extract text from PDF files"
 readme = "README.md"
 requires-python = ">=3.12.10"
 dependencies = [
